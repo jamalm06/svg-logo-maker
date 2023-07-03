@@ -22,7 +22,7 @@ To use the Logo Generator, follow these steps:
 9. Open the `logo.svg` file in a browser to view the 300x200 pixel image that matches the criteria you entered.
 
 ## Walkthrough Video
-Click [here](https://example.com) to watch a walkthrough video demonstrating the functionality of the Logo Generator and its successful execution of all tests.
+Click [here](https://drive.google.com/file/d/1TamBa3ym0GjGGeYe0E0ZSgPz49ks333h/view) to watch a walkthrough video demonstrating the functionality of the Logo Generator and its successful execution of all tests.
 
 ### User Story
 
